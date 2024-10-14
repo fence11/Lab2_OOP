@@ -13,9 +13,7 @@ Student Management System for a University
 - **Display Current Non-Graduate Students**: View a list of students who are yet to graduate along with their faculty and department details.
 - **Display Faculty and Enrolled Students**: View all students enrolled under a specific faculty.
 
-## Program Structure
-
-The program consists of several key classes:
+## Classes
 
 1. **Person**: The base class for storing basic details like name and email.
 2. **Student**: Inherits from `Person`, stores additional information like major, graduation status, and a unique student ID.
